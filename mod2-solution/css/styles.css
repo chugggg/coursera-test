@@ -10,6 +10,10 @@ h1 {
   margin: 20px;
 }
 
+section>div {
+  width: 90%;
+}
+
 
 .cardstruct {
   background-color: hsl(0, 100%, 76%);
@@ -17,10 +21,8 @@ h1 {
   border-color: black;
   border: 5px black solid;
   padding: 20px 5px 5px 5px ;
-  width: 90%;
   height: auto;
-  margin: 10px auto;
-  
+  margin: 10px;  
 }
 
 
@@ -145,10 +147,6 @@ h1 {
     width: 91.66%;
   }
   .col-md-12 {
-    width: 100%;
-  }
-
-  .spec {
-    width: calc(100% - 1.07em);
+    width: 100%
   }
 }
