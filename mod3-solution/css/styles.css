@@ -1,0 +1,26 @@
+body {
+	background-color: hsl(39, 100%, 90%);
+}
+
+#nav-struct {
+	background-color: hsl(39, 100%, 77%);
+}
+
+.text-center {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+div ul {
+	font-size: 1.6em;
+}
+
+.cardstruct {
+	background-color: hsl(136, 47%, 64%);
+	padding: auto;
+}
+
+.cardtitle {
+	font-size: 1.8em;
+	font-weight: bold;
+}
